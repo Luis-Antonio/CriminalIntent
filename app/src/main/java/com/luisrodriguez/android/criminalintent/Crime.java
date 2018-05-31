@@ -1,6 +1,6 @@
 package com.luisrodriguez.android.criminalintent;
 
-import com.luisrodriguez.android.criminalintent.CrimeActivity;
+
 
 import java.util.UUID;
 import java.util.Date;
